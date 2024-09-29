@@ -5,7 +5,7 @@
 #### By *Abdurizak Abubakar*
 
 ## Description
-It's a webpage that shows different types of triangles and what they look like.
+The following website contains 3 js files and 3 html files.
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
