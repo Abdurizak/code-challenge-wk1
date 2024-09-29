@@ -20,7 +20,7 @@ Git clone https://github.com/Abdurizak/code-challenge-wk1.git
 ```
 
 # Live Link
-[Git](gh-pages link)
+https://abdurizak.github.io/code-challenge-wk1/
 
 ## Technologies used
 HTML
